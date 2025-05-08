@@ -48,3 +48,7 @@ metodo5{
     qualquer coisa
     new branch test
 }
+
+metodo6{
+    asbchuasuias
+}
