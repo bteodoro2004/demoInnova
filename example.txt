@@ -46,4 +46,5 @@ metododo4{
 
 metodo5{
     qualquer coisa
+    new branch test
 }
